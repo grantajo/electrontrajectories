@@ -11,8 +11,11 @@ This code also uses that energy deposition information in informing two modeling
 ### Create a virtual environment
 
 Conda:
+
 `conda create --name "myenv"`
+
 `conda activate "myenv"`
+
 `conda install "list of dependencies"`
 
 ### Installing this repository
@@ -21,7 +24,7 @@ Conda:
 
 ### Required dependencies
 
-- Numpy: `pip` or `conda install `
-- Pandas: `pip` or `conda install pandas`
-- Scipy: `pip` or `conda install scipy`
-- Matplotlib: `pip` or `conda install matplotlib`
+- Numpy: `conda install `
+- Pandas: `conda install pandas`
+- Scipy: `conda install scipy`
+- Matplotlib: `conda install matplotlib`
